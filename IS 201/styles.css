@@ -1,0 +1,42 @@
+body{
+    font-family: cursive;
+    background-color: rgb(27, 46, 46);
+    color: aliceblue;
+    background-image: url("https://wallpaperaccess.com/full/5264414.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: rgb(168, 239, 215);
+}
+h1,h2{
+    text-align: center;
+}
+img{
+    border: 5px dashed wheat;
+    padding: 5px;
+    height: 250px;
+    margin: auto;
+    display: block;
+}
+.rizz{
+    font-family: fantasy;
+    color:rgb(254, 82, 63);
+    border: 5px, dashed, salmon;
+    font-size: 400%;
+    font-weight: bolder;
+    background-color: rgb(34, 45, 56);
+}
+.rizz:hover{
+    font-size: 500%;
+    color: brown;
+    border: 5px, solid, salmon
+}
+li{
+    width:fit-content;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: rgb(59, 52, 13);
+}
+a:visited

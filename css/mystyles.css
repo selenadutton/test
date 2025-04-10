@@ -1,0 +1,15 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(246, 204, 210);
+}
+h1,h2,h3,.subheading{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+a:hover{
+    color: aliceblue !important;
+}
+h2:hover, h3:hover{
+    color: aliceblue;
+}
+
+/* this is suposed to be on a diffrent style page */
